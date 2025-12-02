@@ -10,5 +10,5 @@ Companion repository to ensure analysis reproducibility of the paper submitted.
 
 ___
 
-### Observation
+### Observation:
 Outliers were detected using ROUT (Q = 1%) method in GraphPad Prism. The test simply reports which values are outliers and which are not (already flagged in the spreadsheet), which is why there is no export file from Prism with the associated results.
